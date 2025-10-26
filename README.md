@@ -1,7 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/its-namami/dx-calc) ![GitHub License](https://img.shields.io/github/license/its-namami/dx-calc) ![GitHub Issues](https://img.shields.io/github/issues/its-namami/dx-calc)
 
 <p align="left">
-  <img src='https://raw.githubusercontent.com/its-namami/dc-calc/main/assets/media/images/docs/dx-calc-logo.webp' alt='DXCalc Logo' width='200'/>
+  <img src='https://raw.githubusercontent.com/its-namami/dx-calc/main/assets/media/images/docs/dx-calc-logo.webp' alt='DXCalc Logo' width='200'/>
 </p>
 
 # DXCalc
